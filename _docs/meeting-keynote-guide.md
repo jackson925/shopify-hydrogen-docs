@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Meeting Keynote Guide
-nav_order: 2
+nav_order: 1
 ---
 
 # Shopify Hydrogen Migration Partnership
@@ -211,28 +211,28 @@ This guide provides key talking points and strategic emphasis for presenting the
 ### References & Sources
 
 **Official Documentation**
-- Shopify Inc. (2024). "Hydrogen Documentation." Shopify Developer Documentation. [https://shopify.dev/docs/custom-storefronts/hydrogen](https://shopify.dev/docs/custom-storefronts/hydrogen)
-- Shopify Inc. (2024). "Hydrogen GitHub Repository." GitHub. [https://github.com/Shopify/hydrogen](https://github.com/Shopify/hydrogen)
-- Shopify Inc. (2024). "Streaming SSR Best Practices." Shopify Developer Documentation. [https://shopify.dev/docs/custom-storefronts/hydrogen/best-practices/streaming-ssr](https://shopify.dev/docs/custom-storefronts/hydrogen/best-practices/streaming-ssr)
-- Shopify Inc. (2024). "Caching in Hydrogen." Shopify Developer Documentation. [https://shopify.dev/docs/custom-storefronts/hydrogen/best-practices/caching](https://shopify.dev/docs/custom-storefronts/hydrogen/best-practices/caching)
-- React Team. (2023). "React Server Components." React Documentation. [https://react.dev/blog/2023/03/22/react-labs-what-we-have-been-working-on-march-2023#react-server-components](https://react.dev/blog/2023/03/22/react-labs-what-we-have-been-working-on-march-2023#react-server-components)
+- Shopify Inc. (2024). "Hydrogen Documentation." Shopify Developer Documentation. https://shopify.dev/docs/custom-storefronts/hydrogen
+- Shopify Inc. (2024). "Hydrogen GitHub Repository." GitHub. https://github.com/Shopify/hydrogen
+- Shopify Inc. (2024). "Streaming SSR Best Practices." Shopify Developer Documentation. https://shopify.dev/docs/custom-storefronts/hydrogen/best-practices/streaming-ssr
+- Shopify Inc. (2024). "Caching in Hydrogen." Shopify Developer Documentation. https://shopify.dev/docs/custom-storefronts/hydrogen/best-practices/caching
+- React Team. (2023). "React Server Components." React Documentation. https://react.dev/blog/2023/03/22/react-labs-what-we-have-been-working-on-march-2023#react-server-components
 
 **Industry Reports & Research**
-- Shopify Inc. (2024). "Fourth Quarter and Full Year 2023 Financial Results." Shopify Investor Relations. [https://investors.shopify.com/news-and-events/news/press-release-details/2024/Shopify-Announces-Fourth-Quarter-and-Full-Year-2023-Financial-Results/default.aspx](https://investors.shopify.com/news-and-events/news/press-release-details/2024/Shopify-Announces-Fourth-Quarter-and-Full-Year-2023-Financial-Results/default.aspx)
-- HTTP Archive. (2023). "Web Almanac 2023: Performance Chapter." HTTP Archive Web Almanac. [https://almanac.httparchive.org/en/2023/performance](https://almanac.httparchive.org/en/2023/performance)
-- Deloitte Digital. (2020). "Milliseconds Make Millions." Deloitte Consulting Report. [https://www2.deloitte.com/ie/en/pages/consulting/articles/milliseconds-make-millions.html](https://www2.deloitte.com/ie/en/pages/consulting/articles/milliseconds-make-millions.html)
-- Google & SOASTA. (2017). "The State of Online Retail Performance." Think with Google. [https://www.thinkwithgoogle.com/marketing-strategies/app-and-mobile/mobile-page-speed-data/](https://www.thinkwithgoogle.com/marketing-strategies/app-and-mobile/mobile-page-speed-data/)
-- McKinsey Digital. (2022). "The Platform Play: How to Operate Like a Tech Company." McKinsey & Company. [https://www.mckinsey.com/capabilities/mckinsey-digital/our-insights/tech-forward/the-platform-play-how-to-operate-like-a-tech-company](https://www.mckinsey.com/capabilities/mckinsey-digital/our-insights/tech-forward/the-platform-play-how-to-operate-like-a-tech-company)
-- Market Research Future. (2023). "Headless Commerce Market Research Report." Market Research Future. [https://www.marketresearchfuture.com/reports/headless-commerce-market-11011](https://www.marketresearchfuture.com/reports/headless-commerce-market-11011)
-- Google Chrome Team. (2022). "Web Performance Budget." Web.dev. [https://web.dev/articles/performance-budget](https://web.dev/articles/performance-budget)
+- Shopify Inc. (2024). "Fourth Quarter and Full Year 2023 Financial Results." Shopify Investor Relations. https://investors.shopify.com/news-and-events/news/press-release-details/2024/Shopify-Announces-Fourth-Quarter-and-Full-Year-2023-Financial-Results/default.aspx
+- HTTP Archive. (2023). "Web Almanac 2023: Performance Chapter." HTTP Archive Web Almanac. https://almanac.httparchive.org/en/2023/performance
+- Deloitte Digital. (2020). "Milliseconds Make Millions." Deloitte Consulting Report. https://www2.deloitte.com/ie/en/pages/consulting/articles/milliseconds-make-millions.html
+- Google & SOASTA. (2017). "The State of Online Retail Performance." Think with Google. https://www.thinkwithgoogle.com/marketing-strategies/app-and-mobile/mobile-page-speed-data/
+- McKinsey Digital. (2022). "The Platform Play: How to Operate Like a Tech Company." McKinsey & Company. https://www.mckinsey.com/capabilities/mckinsey-digital/our-insights/tech-forward/the-platform-play-how-to-operate-like-a-tech-company
+- Market Research Future. (2023). "Headless Commerce Market Research Report." Market Research Future. https://www.marketresearchfuture.com/reports/headless-commerce-market-11011
+- Google Chrome Team. (2022). "Web Performance Budget." Web.dev. https://web.dev/articles/performance-budget
 
 **Market Intelligence**
-- eCommerce Platforms. (2023). "Shopify Statistics: Market Share and Business Data." eCommerce Platforms. [https://ecommerce-platforms.com/articles/shopify-statistics](https://ecommerce-platforms.com/articles/shopify-statistics)
-- UpCity. (2023). "Shopify Development Pricing Guide." UpCity Marketplace. [https://upcity.com/web-development/shopify/pricing/](https://upcity.com/web-development/shopify/pricing/)
+- eCommerce Platforms. (2023). "Shopify Statistics: Market Share and Business Data." eCommerce Platforms. https://ecommerce-platforms.com/articles/shopify-statistics
+- UpCity. (2023). "Shopify Development Pricing Guide." UpCity Marketplace. https://upcity.com/web-development/shopify/pricing/
 
 **Community Insights**
-- Reddit r/shopify. (2023). "Is Hydrogen Worth Learning?" Reddit community discussion. [https://www.reddit.com/r/shopify/comments/16jlgpo/is_hydrogen_worth_learning/](https://www.reddit.com/r/shopify/comments/16jlgpo/is_hydrogen_worth_learning/)
-- Shopify Partners Forum. (2023). Various discussions on Hydrogen adoption [Members-only access]. [https://community.shopify.com/c/shopify-community/ct-p/en](https://community.shopify.com/c/shopify-community/ct-p/en)
+- Reddit r/shopify. (2023). "Is Hydrogen Worth Learning?" Reddit community discussion. https://www.reddit.com/r/shopify/comments/16jlgpo/is_hydrogen_worth_learning/
+- Shopify Partners Forum. (2023). Various discussions on Hydrogen adoption [Members-only access]. https://community.shopify.com/c/shopify-community/ct-p/en
 
 ---
 
