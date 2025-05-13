@@ -1,0 +1,7 @@
+title: Shopify Hydrogen Migration Partnership
+description: Documentation for the Shopify Hydrogen Migration Partnership
+theme: jekyll-theme-cayman
+markdown: kramdown
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
