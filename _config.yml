@@ -1,7 +1,46 @@
 title: Shopify Hydrogen Migration Partnership
 description: Documentation for the Shopify Hydrogen Migration Partnership
-theme: jekyll-theme-cayman
-markdown: kramdown
-kramdown:
-  input: GFM
-  syntax_highlighter: rouge
+theme: just-the-docs
+
+# Enable or disable the site search
+search_enabled: true
+
+# Aux links for the upper right navigation
+aux_links:
+  "GitHub Repository":
+    - "https://github.com/jackson925/shopify-hydrogen-docs"
+
+# Color scheme supports "light" (default) and "dark"
+color_scheme: light
+
+# Footer content
+footer_content: "Copyright &copy; 2024 Shopify Hydrogen Migration Partnership."
+
+# Back to top link
+back_to_top: true
+back_to_top_text: "Back to top"
+
+# Footer last edited timestamp
+last_edit_timestamp: true
+last_edit_time_format: "%b %e %Y at %I:%M %p"
+
+# Sort order for navigation links
+nav_sort: case_sensitive
+
+# Configure collections for the documentation
+collections:
+  docs:
+    permalink: "/:collection/:path/"
+    output: true
+
+# Define the directory structure for the documentation
+just_the_docs:
+  collections:
+    docs:
+      name: Documentation
+  
+# Set a path/url to a logo that will be displayed instead of the title
+# logo: "/assets/images/logo.png"
+
+# Enable or disable heading anchors
+heading_anchors: true
