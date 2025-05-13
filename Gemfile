@@ -1,11 +1,18 @@
 source "https://rubygems.org"
 
-gem "jekyll", "~> 4.3.2"
+gem "github-pages", group: :jekyll_plugins
+gem "webrick", "~> 1.7"
+
+# Remove jekyll direct dependency as github-pages manages this
+# gem "jekyll", "~> 4.3.2"
+
+# Use the remote theme method for Just the Docs
 gem "just-the-docs", "~> 0.5.0"
 
 group :jekyll_plugins do
   gem "jekyll-feed", "~> 0.12"
   gem "jekyll-seo-tag", "~> 2.8"
+  gem "jekyll-remote-theme"
 end
 
 # Windows and JRuby does not include zoneinfo files, so bundle the tzinfo-data gem

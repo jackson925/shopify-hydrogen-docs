@@ -1,6 +1,6 @@
 title: Shopify Hydrogen Migration Partnership
 description: Documentation for the Shopify Hydrogen Migration Partnership
-theme: just-the-docs
+remote_theme: just-the-docs/just-the-docs
 
 # Enable or disable the site search
 search_enabled: true
@@ -44,3 +44,12 @@ just_the_docs:
 
 # Enable or disable heading anchors
 heading_anchors: true
+
+# Enable plugins for GitHub Pages
+plugins:
+  - jekyll-remote-theme
+  - jekyll-seo-tag
+  - jekyll-feed
+
+# Base path for the site
+baseurl: "/shopify-hydrogen-docs"
