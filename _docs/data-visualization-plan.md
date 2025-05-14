@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Data Visualization Plan
-nav_order: 8
+nav_order: 11
 ---
 
 # Data Visualization Plan: Shopify Hydrogen Migration Analysis

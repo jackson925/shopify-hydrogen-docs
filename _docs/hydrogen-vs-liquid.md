@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Hydrogen vs. Liquid Comparison
-nav_order: 3
+nav_order: 5
 ---
 
 # Hydrogen vs. Liquid: Comparative Analysis

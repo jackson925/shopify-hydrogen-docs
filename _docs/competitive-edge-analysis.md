@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Competitive Edge Analysis
-nav_order: 5
+nav_order: 6
 ---
 
 # Competitive Edge Analysis: Shopify Hydrogen in 2025 and Beyond

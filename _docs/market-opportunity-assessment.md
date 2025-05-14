@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Market Opportunity Assessment
-nav_order: 3
+nav_order: 7
 ---
 
 # Market Opportunity: Shopify Hydrogen Migrations

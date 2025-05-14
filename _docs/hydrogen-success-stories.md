@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Hydrogen Success Stories
-nav_order: 6
+nav_order: 10
 ---
 
 # Shopify Hydrogen Success Stories

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Economic Projections
-nav_order: 7
+nav_order: 9
 ---
 
 # Economic Projections: Shopify Hydrogen Migrations
