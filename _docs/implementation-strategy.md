@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Implementation Strategy
-nav_order: 12
+nav_order: 13
 ---
 
 # Implementation Strategy: Shopify Hydrogen Migrations

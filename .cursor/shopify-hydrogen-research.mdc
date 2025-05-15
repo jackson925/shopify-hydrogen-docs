@@ -1,0 +1,102 @@
+# Shopify Hydrogen Migration Research Project
+## Cursor Rules and Project Guidelines
+
+### Project Scope Boundaries
+
+1. This research focuses exclusively on the migration from Shopify Liquid to Shopify Hydrogen.
+2. All analysis must be based on verifiable data from credible sources.
+3. Case studies must include quantifiable metrics and real implementation details.
+4. The target audience includes business leaders, technical teams, and marketing partners.
+5. All recommendations must be actionable and evidence-based.
+6. The research must remain vendor-neutral while focusing on Shopify technologies.
+7. All financial projections must include clear methodology and assumptions.
+
+### Documentation Standards
+
+1. All documentation must follow the Jekyll "Just the Docs" theme structure.
+2. Every document requires proper front matter with appropriate nav_order values.
+3. All code examples must use proper markdown code fences with language indicators.
+4. Tables must be properly formatted with aligned columns and header rows.
+5. All diagrams and visualizations must include text descriptions for accessibility.
+6. Citations must follow a consistent format with accessible references.
+7. Navigation structure must follow the established hierarchy from executive overview to technical implementation.
+
+### Content Requirements
+
+1. Executive documents must prioritize business outcomes over technical details.
+2. Technical documentation must include specific implementation approaches with examples.
+3. All performance claims must cite specific metrics with testing methodology.
+4. Cost analysis must include ranges rather than specific figures when appropriate.
+5. Case studies must cover diverse merchant types across different industries and sizes.
+6. All documents must maintain a professional, objective tone throughout.
+7. Implementation guidance must be practical and acknowledge potential challenges.
+
+### Data Integrity Rules
+
+1. All market sizing must be based on verifiable Shopify ecosystem data.
+2. Performance metrics must specify testing methodology and conditions.
+3. ROI calculations must include all relevant cost factors and timeframes.
+4. Source citations must be current (within last 2 years where possible).
+5. Competitive analysis must fairly represent alternatives without bias.
+6. Customer impact metrics must distinguish between correlation and causation.
+7. Business projections must include multiple scenarios with probability assessments.
+
+### Research Boundaries
+
+1. Focus on established Shopify merchants with existing Liquid stores.
+2. Include only publicly disclosed information about Shopify's roadmap.
+3. Limit technology comparisons to relevant e-commerce frameworks.
+4. Exclude pricing details that may fluctuate or vary by region.
+5. Avoid making claims about specific third-party integrations without evidence.
+6. Maintain focus on the migration journey rather than initial implementation.
+7. Consider enterprise, mid-market, and high-growth merchant segments.
+
+### Visualization Guidelines
+
+1. All charts must include proper titles, legends, and axis labels.
+2. Maintain consistent color schemes across all visualizations.
+3. Use appropriate chart types for different data relationships.
+4. Include data sources and sample sizes for all visualizations.
+5. Ensure all visualizations are intelligible in both color and grayscale.
+6. Provide raw data tables alongside complex visualizations.
+7. Use consistent scales and units across related visualizations.
+
+### Navigation Structure
+
+1. Maintain logical document flow from strategic to tactical information.
+2. Group related documents in clear categories.
+3. Ensure consistent cross-referencing between related documents.
+4. Provide navigational aids for different stakeholder journeys.
+5. Maintain consistent depth of information within each document category.
+6. Ensure search-friendly document titles and headings.
+7. Include a clear entry point document for each audience type.
+
+### Quality Control Requirements
+
+1. All documents must undergo technical accuracy review.
+2. Financial projections must be validated against established benchmarks.
+3. Case studies must be fact-checked with verifiable outcomes.
+4. All claims must be supported by at least two independent sources where possible.
+5. Technical recommendations must be validated against current best practices.
+6. All content must be reviewed for clarity and comprehensibility.
+7. Documents must be free of contradictory information across the research.
+
+### Content Exclusions
+
+1. Specific merchant names without public case studies or permission.
+2. Proprietary implementation details not publicly disclosed.
+3. Developer skills assessment of specific agencies or teams.
+4. Speculative features not confirmed by Shopify.
+5. Guarantees of specific performance improvements without caveats.
+6. Internal Shopify roadmap information not publicly available.
+7. Specific pricing of implementation services.
+
+### Document Maintenance
+
+1. Performance metrics should be updated quarterly.
+2. Market sizing should be re-validated annually.
+3. Case studies should be added as new implementations are completed.
+4. Technology comparisons should be updated with major Shopify releases.
+5. Financial models should be adjusted annually for market conditions.
+6. References should be reviewed bi-annually for currency.
+7. Navigation structure should be reassessed with significant content additions. 
